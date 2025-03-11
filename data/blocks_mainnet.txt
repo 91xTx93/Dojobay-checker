@@ -1,6 +1,6 @@
 http://i5ffjh2bz423nq3c77ce2onx5ykhwxkjkhx2w36ip5ihm6ukxheym4id.onion/api/blocks/tip
 http://izzamcrhxuitri33v5im4wvkuuhorpcxofsgsxg3xre53jupqlcsncqd.onion/api/blocks/tip
-http://fr6hlqwr5txdihrgk6au3f6tngfq5og2arqay5oogdhlj5seoqu6wdid.onion/api/blocks/tip
+http://7jk2lgnqkb4xla56wvzy2vt5qux74igo4jsqgdawahzblzxedpmyewyd.onion/api/blocks/tip
 http://y36iybkugkvpuvvd5ig6qqtli7u5ix33oblf6yru5ojh26tkejtxatad.onion/api/blocks/tip
 http://eaa3qxan44q2rksr23nferh5ntxsqcdcdkjmotlyo7h56widf4y3yiqd.onion/api/blocks/tip
 http://rnyttli6nmymyxfghvh7amzebfkgxq22mthhrsc3ybsioogbka6sg4yd.onion/api/blocks/tip
