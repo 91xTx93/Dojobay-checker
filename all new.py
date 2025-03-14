@@ -13,15 +13,23 @@ def get_data_path(filename):
     return os.path.join(current_dir, "data", filename)
 
 
-if __name__ == "__main__":
-    check_tor_connection()
-
+def check_all_urls():
+    """Check all onion URLs"""
     print(f"\n{Fore.YELLOW} CHECKING URLS {Style.RESET_ALL}")
     check_onion_urls(get_data_path("Dojo_mainnet.txt"))
     check_onion_urls(get_data_path("Dojo_testnet.txt"))
 
+
+def check_all_blocks():
+    """Check all mempool and onion blocks"""
     print(f"\n{Fore.YELLOW} CHECKING MEMPOOL BLOCKS {Style.RESET_ALL}")
     check_mempool_height()
     check_onion_blocks(get_data_path("blocks_mainnet.txt"))
     check_testnetmempool_height()
     check_onion_blocks(get_data_path("blocks_testnet.txt"))
+
+
+if __name__ == "__main__":
+    check_tor_connection()
+    check_all_urls()
+    check_all_blocks()
