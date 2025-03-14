@@ -6,3 +6,4 @@ http://eaa3qxan44q2rksr23nferh5ntxsqcdcdkjmotlyo7h56widf4y3yiqd.onion/api/blocks
 http://rnyttli6nmymyxfghvh7amzebfkgxq22mthhrsc3ybsioogbka6sg4yd.onion/api/blocks/tip,otto
 http://2dyyjxo4ehklzlgyx7icjrgxg5cgiwpkzvzj6j4spuuwzjmaf6uejoad.onion/api/blocks/tip,maxtannahill
 http://eefhmn3z6jmh72kph6777fahelbalvlrtgklu5newib7aa4dbjrgmwyd.onion/api/blocks/tip,jordan
+http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion/api/blocks/tip/height,arthur

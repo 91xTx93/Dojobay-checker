@@ -7,7 +7,10 @@ proxies = {"http": "socks5h://127.0.0.1:9050", "https": "socks5h://127.0.0.1:905
 def check_onion_blocks(file_path):
     with open(file_path, "r") as input_file:
         for line in input_file:
-            url = line.split(",")[0].rstrip("\n")
+            line = line.rstrip("\n")
+            parts = line.split(",")
+            url = parts[0]
+            url_name = parts[1] if len(parts) > 1 else "Unknown"
             onion_url = url.split("/api")[0]
             try:
                 data = requests.get(url, proxies=proxies)
@@ -21,6 +24,6 @@ def check_onion_blocks(file_path):
                 block_number = "NA"
 
             print(
-                f"{onion_url} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | Block: {Fore.MAGENTA} {block_number}{Style.RESET_ALL}"
+                f"{Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | Block: {Fore.MAGENTA} {block_number}{Style.RESET_ALL} | {url_name}"
             )
-            # f"{onion_url} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | {status_code} | Block: {block_number}")
+            # f"{url_name} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | {status_code} | Block: {block_number}")

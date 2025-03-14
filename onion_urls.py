@@ -8,7 +8,10 @@ proxies = {"http": "socks5h://127.0.0.1:9050", "https": "socks5h://127.0.0.1:905
 def check_onion_urls(file_path):
     with open(file_path, "r") as input_file:
         for line in input_file:
-            url = line.split(",")[0].rstrip("\n")
+            line = line.rstrip("\n")
+            parts = line.split(",")
+            url = parts[0]
+            url_name = parts[1] if len(parts) > 1 else "Unknown"
             try:
                 data = requests.get(url, proxies=proxies)
                 status = "Active"
@@ -21,6 +24,6 @@ def check_onion_urls(file_path):
                 page_title = "NA"
 
             print(
-                f"{url} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL}"
+                f" {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | {url_name}"
             )
-            # f"{url} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | {status_code} | {page_title}")
+            # f"{url_name} | {Fore.GREEN if status == 'Active' else Fore.RED}{status}{Style.RESET_ALL} | {status_code} | {page_title}")
