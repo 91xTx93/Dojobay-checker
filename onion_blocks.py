@@ -6,8 +6,8 @@ proxies = {"http": "socks5h://127.0.0.1:9050", "https": "socks5h://127.0.0.1:905
 
 def check_onion_blocks(file_path):
     with open(file_path, "r") as input_file:
-        for url in input_file:
-            url = url.rstrip("\n")
+        for line in input_file:
+            url = line.split(",")[0].rstrip("\n")
             onion_url = url.split("/api")[0]
             try:
                 data = requests.get(url, proxies=proxies)
