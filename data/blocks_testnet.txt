@@ -1,3 +1,2 @@
 http://p7wvh24b6mdt3gqa2b2ynyei4ib6xahvk5wzqlgu6olamyvej6fkczqd.onion/api/blocks/tip,xTx
 http://jfpzciobq5iysusamzuyj6ijj67wzlclxphknco467ljban5h7jilhad.onion/api/blocks/tip,Libertarian
-http://b3krcphqdbrzkblvti2eiuogfrx6b5lynenv5dxjwsw7hq47dlrc4pid.onion/api/blocks/tip,wanderinKing072
