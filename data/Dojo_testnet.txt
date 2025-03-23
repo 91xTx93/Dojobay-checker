@@ -1,3 +1,3 @@
-http://4f6hya64dcofjavp66illnynpoxjdfc2bnvwduleqkvjuqq633d2fiyd.onion,xTx
-http://hdflycre2gb6l3yxolofi7thtw7p2cfymfmq2bqsxhx7pjuk6sj23tyd.onion,Libertarian
-http://b3krcphqdbrzkblvti2eiuogfrx6b5lynenv5dxjwsw7hq47dlrc4pid.onion,wanderinKing072
+http://4f6hya64dcofjavp66illnynpoxjdfc2bnvwduleqkvjuqq633d2fiyd.onion,Testnet xTx
+http://hdflycre2gb6l3yxolofi7thtw7p2cfymfmq2bqsxhx7pjuk6sj23tyd.onion,Testnet Libertarian
+http://b3krcphqdbrzkblvti2eiuogfrx6b5lynenv5dxjwsw7hq47dlrc4pid.onion,Testnet wanderinKing072
