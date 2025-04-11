@@ -7,3 +7,5 @@ http://w4rvo4pxmghm24e2wz64xycwrvp4nsqo3itykezrydlqvzylqn3ov6id.onion,Mainnet ot
 http://rwijn27ypfktrhsyrfnob66sjdgpyw6cvlk3ijzyzpj6w36emyk5x5ad.onion,Mainnet maxtannahill
 http://pouocz43pimqo46ypkvifjekjzisovc5nzlkpqe3zlsxdrz2elzyz3id.onion,Mainnet jordan
 http://wv2qkswnjh5scykoalv6waaogmtrlby3mec3iunxhkop47l24tx43aqd.onion,Mainnet arthur
+http://2ql2zitmzdncnttcnxmjoufcw2zptvytdvigy4nx2cbqgwt3r75fwqqd.onion,Mainnet Razzle Dazzle
+http://hhy6uamxpxktb56hypfsenohkb62karnmmkinfimozhnm5wasnyr7yad.onion,Mainnet Syndicate Systems
