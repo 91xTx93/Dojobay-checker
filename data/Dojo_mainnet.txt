@@ -8,3 +8,5 @@ http://pouocz43pimqo46ypkvifjekjzisovc5nzlkpqe3zlsxdrz2elzyz3id.onion,Mainnet jo
 http://wv2qkswnjh5scykoalv6waaogmtrlby3mec3iunxhkop47l24tx43aqd.onion,Mainnet arthur
 http://2ql2zitmzdncnttcnxmjoufcw2zptvytdvigy4nx2cbqgwt3r75fwqqd.onion,Mainnet Razzle Dazzle
 http://hhy6uamxpxktb56hypfsenohkb62karnmmkinfimozhnm5wasnyr7yad.onion,Mainnet Syndicate Systems
+http://3645yj4kiqzuwoqvdbgpb4qzkmbcn7cm2icejdpa6zaihd2lib6qmuad.onion,Mainnet Btcwrestle
+http://zidkaz7dqmpq2ggukixinukg2hproknsi2bwvbepdn3u4n6mxglpmqad.onion,Mainnet BottomshelfBTC
