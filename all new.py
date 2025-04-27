@@ -14,7 +14,7 @@ def get_data_path(filename):
 
 
 def check_all_urls():
-    """Check all onion URLs"""
+    ### Check all onion URLs ###
     print(f"\n{Fore.YELLOW} CHECKING URLS {Style.RESET_ALL}")
     check_onion_urls(get_data_path("Dojo_mainnet.txt"))
     print("\n" + Fore.YELLOW + " CHECKING TESTNET URLS " + Style.RESET_ALL)
@@ -22,7 +22,7 @@ def check_all_urls():
 
 
 def check_all_blocks():
-    """Check all mempool and onion blocks"""
+    ### Check all mempool and onion blocks ###
     print(f"\n{Fore.YELLOW} CHECKING MEMPOOL BLOCKS {Style.RESET_ALL}")
     check_mempool_height()
     check_onion_blocks(get_data_path("blocks_mainnet.txt"))
