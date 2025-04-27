@@ -8,7 +8,7 @@ import os
 
 
 def get_data_path(filename):
-    """Get absolute path for data files in the data subdirectory"""
+    ## Get absolute path for data files in the data subdirectory ###
     current_dir = os.path.dirname(os.path.abspath(__file__))
     return os.path.join(current_dir, "data", filename)
 
