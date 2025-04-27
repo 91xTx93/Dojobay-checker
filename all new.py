@@ -15,7 +15,7 @@ def get_data_path(filename):
 
 def check_all_urls():
     ### Check all onion URLs ###
-    print(f"\n{Fore.YELLOW} CHECKING URLS {Style.RESET_ALL}")
+    print(f"\n{Fore.YELLOW} CHECKING MAINNET URLS {Style.RESET_ALL}")
     check_onion_urls(get_data_path("Dojo_mainnet.txt"))
     print("\n" + Fore.YELLOW + " CHECKING TESTNET URLS " + Style.RESET_ALL)
     check_onion_urls(get_data_path("Dojo_testnet.txt"))
