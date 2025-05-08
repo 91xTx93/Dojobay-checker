@@ -10,4 +10,4 @@ http://2ql2zitmzdncnttcnxmjoufcw2zptvytdvigy4nx2cbqgwt3r75fwqqd.onion,Mainnet Ra
 http://hhy6uamxpxktb56hypfsenohkb62karnmmkinfimozhnm5wasnyr7yad.onion,Mainnet Syndicate Systems
 http://3645yj4kiqzuwoqvdbgpb4qzkmbcn7cm2icejdpa6zaihd2lib6qmuad.onion,Mainnet Btcwrestle
 http://zidkaz7dqmpq2ggukixinukg2hproknsi2bwvbepdn3u4n6mxglpmqad.onion,Mainnet BottomshelfBTC
-http://xkjpwzcmk7nmn6vttii5uz4khsc45wh5pwypaxq25ofx3rkomuicazyd.onion,Mainnet (private) xTx
+http://xkjpwzcmk7nmn6vttii5uz4khsc45wh5pwypaxq25ofx3rkomuicazyd.onion,Mainnet xTx (Tanto - private)
