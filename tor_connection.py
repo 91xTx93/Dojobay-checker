@@ -24,5 +24,4 @@ def check_tor_connection():
         print("Error: Could not connect through Tor.")
         print("Details:", e)
         print("Make sure Tor is running on 127.0.0.1:9050")
-        print("For quick setup refer: https://miloserdov.org/?p=1839")
         exit(1)
