@@ -1,5 +1,5 @@
-http://4f6hya64dcofjavp66illnynpoxjdfc2bnvwduleqkvjuqq633d2fiyd.onion,Testnet xTx-01
+http://4f6hya64dcofjavp66illnynpoxjdfc2bnvwduleqkvjuqq633d2fiyd.onion,Testnet xTx 01
 http://hdflycre2gb6l3yxolofi7thtw7p2cfymfmq2bqsxhx7pjuk6sj23tyd.onion,Testnet Libertarian
 http://b3krcphqdbrzkblvti2eiuogfrx6b5lynenv5dxjwsw7hq47dlrc4pid.onion,Testnet wanderinKing072
-http://kjv62weg6bm34yf6244jcxl3sc3ntpsojdd5xrpzhv2c36b5u5u4gkad.onion,Testnet xTx-02
+http://kjv62weg6bm34yf6244jcxl3sc3ntpsojdd5xrpzhv2c36b5u5u4gkad.onion,Testnet xTx 02
 http://sm4ti4nmg66j3f3vlhlis3vnoe4qbkcs4wyaygbk4tt5sc63ola4scad.onion,Testnet BottomshelfBTC
