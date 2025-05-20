@@ -31,6 +31,6 @@ def check_all_blocks():
 
 
 if __name__ == "__main__":
-    ## check_tor_connection()
+    check_tor_connection()
     check_all_urls()
     ### check_all_blocks()
