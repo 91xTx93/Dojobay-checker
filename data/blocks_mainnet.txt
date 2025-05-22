@@ -1,5 +1,5 @@
 http://i5ffjh2bz423nq3c77ce2onx5ykhwxkjkhx2w36ip5ihm6ukxheym4id.onion/api/blocks/tip,Kilombino
-http://izzamcrhxuitri33v5im4wvkuuhorpcxofsgsxg3xre53jupqlcsncqd.onion/api/blocks/tip,xTx
+http://izzamcrhxuitri33v5im4wvkuuhorpcxofsgsxg3xre53jupqlcsncqd.onion/api/blocks/tip,xTx Red
 http://eaa3qxan44q2rksr23nferh5ntxsqcdcdkjmotlyo7h56widf4y3yiqd.onion/api/blocks/tip,Compiler
 http://rnyttli6nmymyxfghvh7amzebfkgxq22mthhrsc3ybsioogbka6sg4yd.onion/api/blocks/tip,otto
 http://2dyyjxo4ehklzlgyx7icjrgxg5cgiwpkzvzj6j4spuuwzjmaf6uejoad.onion/api/blocks/tip,maxtannahill

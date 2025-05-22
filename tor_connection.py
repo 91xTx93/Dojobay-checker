@@ -15,11 +15,11 @@ def check_tor_connection():
         tor_exit_data = requests.get("https://check.torproject.org/exit-addresses", timeout=10).text
         # Check if IP is in Tor exit node list
         if system_ip in tor_exit_data:
-            print("Tor_IP:", system_ip)
+            #print("Tor_IP:", system_ip)
             print("Tor Connection Success")
         else:
             print("Tor Connection Failed")
-            print("Your IP:", system_ip)
+            #print("Your IP:", system_ip)
     except requests.RequestException as e:
         print("Error: Could not connect through Tor.")
         print("Details:", e)
