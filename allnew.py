@@ -1,4 +1,19 @@
-from colorama import Fore, Style
+import sys
+import os
+
+if os.path.basename(sys.argv[0]) == "allnew.py":
+    from colorama import Fore, Style
+else:
+    # Definir clases dummy para Fore y Style
+    class Dummy:
+        RESET = ""
+    class DummyFore(Dummy):
+        RED = GREEN = YELLOW = BLUE = ""
+    class DummyStyle(Dummy):
+        BRIGHT = NORMAL = ""
+    Fore = DummyFore()
+    Style = DummyStyle()
+
 from tor_connection import check_tor_connection
 from height_mainnet import check_mempool_height
 from height_testnet import check_testnetmempool_height
