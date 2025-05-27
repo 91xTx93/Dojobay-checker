@@ -17,3 +17,5 @@ try:
 except subprocess.CalledProcessError as e:
     st.error("Error al ejecutar allnew.py")
     st.code(e.stderr)
+
+    # Mostrar el error en caso de fallo
