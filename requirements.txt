@@ -1,4 +1,4 @@
 streamlit
-termcolor
+colorama
 requests
 beautifulsoup4
