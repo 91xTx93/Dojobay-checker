@@ -8,7 +8,7 @@ st.write("A web app to check the satus of the dojos listed at [dojobay.pw](https
 # Ejecutar el script allnew.py y mostrar la salida
 try:
     result = subprocess.run(
-        ["python3", "../Dojobay-checker/allnew.py"],
+        ["python3", "allnew.py"],
         capture_output=True, text=True, check=True
     )
     # Eliminar códigos de color ANSI
