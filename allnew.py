@@ -1,4 +1,4 @@
-from colorama import Fore, Style
+from termcolor import colored
 from tor_connection import check_tor_connection
 from height_mainnet import check_mempool_height
 from height_testnet import check_testnetmempool_height
@@ -15,15 +15,15 @@ def get_data_path(filename):
 
 def check_all_urls():
     ### Check all onion URLs ###
-    print(f"\n{Fore.YELLOW} CHECKING MAINNET URLS {Style.RESET_ALL}")
+    print("\n" + colored("CHECKING MAINNET URLS", "yellow"))
     check_onion_urls(get_data_path("Dojo_mainnet.txt"))
-    print("\n" + Fore.YELLOW + " CHECKING TESTNET URLS " + Style.RESET_ALL)
+    print("\n" + colored("CHECKING TESTNET URLS", "yellow"))
     check_onion_urls(get_data_path("Dojo_testnet.txt"))
 
 
 def check_all_blocks():
     ### Check all mempool and onion blocks ###
-    print(f"\n{Fore.YELLOW} CHECKING MEMPOOL BLOCKS {Style.RESET_ALL}")
+    print("\n" + colored("CHECKING MEMPOOL BLOCKS", "yellow"))
     check_mempool_height()
     check_onion_blocks(get_data_path("blocks_mainnet.txt"))
     check_testnetmempool_height()
