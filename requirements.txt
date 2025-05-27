@@ -1,8 +1,4 @@
+streamlit
 colorama
 requests
-BeautifulSoup
-subprocess
-re
-urllib3
-lxml
-pandas
+beautifulsoup4
