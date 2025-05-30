@@ -1,4 +1,4 @@
-http://6eqa4wl2ovfsxwkvdiwywjvsuqkc4ob3nkshglnryuanmyta26cvfpid.onion,Mainnet Kilombino
+http://tyvcthmzw73lvp4jtnnlib7eqrnvskd4ymop7h6in5ov7o7rzlgiqwad.onion,Mainnet Kilombino
 http://rgoi7cteovnjw65suwwkqxo4uxbckglqaftjojsnwv5a5oz5qomnlbad.onion,Mainnet xTx Red
 http://kjpbjzwtroxy5pua7uewmswxrouotkhrbxd3w7xbpqqkcdghuitxvpid.onion,Mainnet wanderinKing072
 http://ebtnuwk5qayotlk7brszskn2zbtzu54y24s6lmojt6j4cv7uaiwlsyad.onion,Mainnet Compiler
@@ -10,4 +10,5 @@ http://2ql2zitmzdncnttcnxmjoufcw2zptvytdvigy4nx2cbqgwt3r75fwqqd.onion,Mainnet Ra
 http://hhy6uamxpxktb56hypfsenohkb62karnmmkinfimozhnm5wasnyr7yad.onion,Mainnet Syndicate Systems
 http://3645yj4kiqzuwoqvdbgpb4qzkmbcn7cm2icejdpa6zaihd2lib6qmuad.onion,Mainnet Btcwrestle
 http://zidkaz7dqmpq2ggukixinukg2hproknsi2bwvbepdn3u4n6mxglpmqad.onion,Mainnet BottomshelfBTC
+http://udwtsxnrqtnodfk5xdmx75oeqfotoiyw6hovj2fwn542kfk6r4gxkwyd.onion,Mainnet xTx Yellow
 http://xkjpwzcmk7nmn6vttii5uz4khsc45wh5pwypaxq25ofx3rkomuicazyd.onion,Mainnet xTx (Tanto - private)
